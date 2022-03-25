@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ri0nardo
-- 👀 I’m interested in animation
-- 🌱 I’m currently learning UX Design
+- 👋 Hi, I’m Randy
+- 👀 I’m interested in UX/UI Design
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on developing an app.
 - 📫 How to reach me @ randy.jrios@gmail.com
 
