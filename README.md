@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Randy
 - 👀 I’m interested in Product Design
-- 🌱 I’m currently learning After Effects
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on developing an app.
 - 📫 How to reach me @ randy.jrios@gmail.com
 
